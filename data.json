@@ -1,0 +1,46 @@
+{
+    "films":[
+        {
+            "id":1,
+            "title":"Watch Kingdom of the Planet of the Apes",
+            "year": 2024,
+            "count":"Australia",
+            "genre":["Action","Adventure"],
+            "category":"film",
+            "cardImg":"https://images.justwatch.com/poster/314299423/s592/kingdom-of-the-planet-of-the-apes",
+            "slaydImg":"https://assetsio.reedpopcdn.com/MV5BNDcxM2RiOWMtMGEzMC00NDEyLTgzMjEtOWZjYzVhN2E2ZjcyXkEyXkFqcGdeQXVyMTkxNjUyNQ%40%40._V1_FMjpg_UX1000_.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+            "videoUrl":"<iframe width='100%' height='100%'' src='https://dzen.ru/embed/vzSABq7CKoEg?' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+            "summary":"The new Apes movie is set many years after the conclusion of 2017 s War for the Planet of the Apes. Many apes societies have grown from when the Moses-like Caesar brought his people to an oasis, while humans have been reduced to a feral-like existence. Some ape groups have never heard of Caesar, while others have contorted his teaching to build burgeoning empires. In this setting, one ape leader begins to enslave other groups to find human technology, while another ape, who watched his clan be taken, embarks on a journey to find freedom. A young human woman becomes key to the latters quest, although she has plans of her own."
+        }
+    ],
+    "serials":[],
+    "anime":[
+        {
+            "id": 1,
+            "title":"Jigokuraku",
+            "episodes": 13,
+            "year": 2023,
+            "count":"Japan",
+            "genre":["Action","Adventure","Fantasy"],
+            "category":"anime",
+            "cardImg":"https://forum.donanimhaber.com/cache-v2?path=https://store.donanimhaber.com/31/41/dc/3141dc4d90d8dae08a1aae60e87e88df.jpg&t=0&width=480&text=1",
+            "slaydImg":"https://cdn.epicstream.com/images/ncavvykf/epicstream/05cacb652cb6cd3ec0d73ee486b884a641403994-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630&auto=format",
+            "summary":"The Tokugawa Dynasty. One of the most skillful ninja and notorious assassin is captured, but he has a chance to avoid execution. To do so, he must travel to a mysterious island shrouded in legend and find the elixir of immortality.",
+            "videoUrl":{
+                "1":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vdDXS2ml7lnc' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "2":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vJtGql3gsyAo' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "3":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vwu-mhVfyoQw' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "4":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vZc47wL0-JCI' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "5":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vb9sJjXznW0Y' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "6":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vmCOCT_WmeTk' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "7":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vK1kEX9a0OQM' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "8":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vlZMJFcaVSmg' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "9":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vuplynNlahyQ' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "10":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vtSljRamsdX8' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "11":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vQtCBi1w61DA' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "12":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vXA8mlZ62n08' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>",
+                "13":"<iframe width='100%' height='100%' src='https://dzen.ru/embed/vYANmM4lyrD4' allow='fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media' frameborder='0' scrolling='no' allowfullscreen></iframe>"
+            }
+        }
+    ]
+}
