@@ -1,5 +1,5 @@
 {
-    "films":[
+    "film":[
         {
             "id":1,
             "title":"Watch Kingdom of the Planet of the Apes",
@@ -13,7 +13,7 @@
             "summary":"The new Apes movie is set many years after the conclusion of 2017 s War for the Planet of the Apes. Many apes societies have grown from when the Moses-like Caesar brought his people to an oasis, while humans have been reduced to a feral-like existence. Some ape groups have never heard of Caesar, while others have contorted his teaching to build burgeoning empires. In this setting, one ape leader begins to enslave other groups to find human technology, while another ape, who watched his clan be taken, embarks on a journey to find freedom. A young human woman becomes key to the latters quest, although she has plans of her own."
         }
     ],
-    "serials":[],
+    "serial":[],
     "anime":[
         {
             "id": 1,
